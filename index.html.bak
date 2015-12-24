@@ -1,7 +1,257 @@
-<!DOCTYPE html><!--	Hyperspace by HTML5 UP	html5up.net | @n33co	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)--><html>  <head>    <meta  content="text/html; charset=utf-8"  http-equiv="content-type">    <title>Hyperspace by HTML5 UP</title>    <meta  name="viewport"  content="width=device-width, initial-scale=1">    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->    <link  rel="stylesheet"  href="assets/css/main.css">    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->  </head>  <body>    <!-- Sidebar -->    <section  id="sidebar">      <div  class="inner">        <nav>          <ul>            <li><a  href="#intro">Welcome</a></li>            <li><a  href="#one">Who we are</a></li>            <li><a  href="#two">What we do</a></li>            <li><a  href="#three">Get in touch</a></li>          </ul>        </nav>      </div>    </section>    <!-- Wrapper -->    <div  id="wrapper">      <!-- Intro -->      <section  id="intro"  class="wrapper style1 fullscreen fade-up">        <div  class="inner">          <h1>Blockchain Institute @ SFU</h1>          <p>A think tank dedicated towards the goal of privacy, security and            equality on the internet.</p>          <ul  class="actions">            <li><a  href="#one"  class="button scrolly">Learn more</a></li>          </ul>        </div>      </section>      <!-- One -->      <section  id="one"  class="wrapper style2 spotlights">        <section> <a  href="https://ca.linkedin.com/pub/sheldon-bennett-mba-cfe/2/64a/41"             class="image featured">            <img  src="https://media.licdn.com/media/p/3/000/10e/27d/367a519.jpg"               alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Sheldon Bennet</h2>              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam                turpis mauris, eu ultricies erat malesuada quis. Aliquam                dapibus.</p>              <ul  class="actions">                <li><a  href="https://ca.linkedin.com/pub/sheldon-bennett-mba-cfe/2/64a/41"                     class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>        <section> <a  href="https://ca.linkedin.com/in/neilharan"  class="image featured">            <img  src="https://media.licdn.com/media/p/3/000/251/27c/2b4db88.jpg"               alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Neil Haran</h2>              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam                turpis mauris, eu ultricies erat malesuada quis. Aliquam                dapibus.</p>              <ul  class="actions">                <li><a  href="https://ca.linkedin.com/in/neilharan"  class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>        <section> <a  href="https://www.linkedin.com/in/markmclaughlin10"  class="image featured">            <img  src="https://media.licdn.com/media/AAEAAQAAAAAAAAIdAAAAJGM3NzBlM2NiLTQ3ZWItNGNjZS1iNGQ2LTUzODYxMmIyOTQ2Ng.jpg"               alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Mark McLaughlin</h2>              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam                turpis mauris, eu ultricies erat malesuada quis. Aliquam                dapibus.</p>              <ul  class="actions">                <li><a  href="https://www.linkedin.com/in/markmclaughlin10"  class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>        <section> <a  href="https://ca.linkedin.com/in/scottbnelson"  class="image featured">            <img  src="images/SBN-2015.png"  alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Scott Nelson</h2>              <p>Scott Nelson has been working with the Bitcoin blockchain since                2010, first as a transaction processor (miner) and more recently                as a Fintech angle investor. He sits on the board of CCEC Credit                Union, Canada's first crypto-currency friendly financial                institute, and is an SFU alumni (Philosophy, 1991).</p>              <ul  class="actions">                <li><a  href="https://ca.linkedin.com/in/scottbnelson"  class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>        <section> <a  href="https://ca.linkedin.com/in/albertski"  class="image featured">            <img  src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/09c/2a7/2453c85.jpg"               alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Albert Szmigielski</h2>              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam                turpis mauris, eu ultricies erat malesuada quis. Aliquam                dapibus.</p>              <ul  class="actions">                <li><a  href="https://ca.linkedin.com/in/albertski"  class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>        <section> <a  href="https://ca.linkedin.com/in/mikeyeungvancouver"  class="image featured"><img               src="https://media.licdn.com/media/p/8/005/099/3a5/34dbefe.jpg"               alt=""></a>          <div  class="content">            <div  class="inner">              <h2>Mike Yeung</h2>              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam                turpis mauris, eu ultricies erat malesuada quis. Aliquam                dapibus.</p>              <ul  class="actions">                <li><a  href="https://ca.linkedin.com/in/mikeyeungvancouver"  class="button">Learn
-                    more</a></li>              </ul>            </div>          </div>        </section>      </section>      <!-- Two -->      <section  id="two"  class="wrapper style3 fade-up">        <div  class="inner">          <h2>What we do</h2>          <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet            imperdiet est velit quis lorem.</p>          <div  class="features">            <section> <span  class="icon major fa-code"></span>              <h3>Lorem ipsum amet</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>            <section> <span  class="icon major fa-lock"></span>              <h3>Aliquam sed nullam</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>            <section> <span  class="icon major fa-cog"></span>              <h3>Sed erat ullam corper</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>            <section> <span  class="icon major fa-desktop"></span>              <h3>Veroeros quis lorem</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>            <section> <span  class="icon major fa-chain"></span>              <h3>Urna quis bibendum</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>            <section> <span  class="icon major fa-diamond"></span>              <h3>Aliquam urna dapibus</h3>              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis                aliquam turpis mauris, sed ultricies erat dapibus.</p>            </section>          </div>          <ul  class="actions">            <li><a  href="#"  class="button">Learn more</a></li>          </ul>        </div>      </section>      <!-- Three -->      <section  id="three"  class="wrapper style1 fade-up">        <div  class="inner">          <h2>Get in touch</h2>          <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet            imperdiet est velit quis lorem.</p>          <div  class="split style1">            <section>              <form  method="post"  action="#">                <div  class="field half first"> <label  for="name">Name</label>                  <input  name="name"  id="name"  type="text"> </div>                <div  class="field half"> <label  for="email">Email</label> <input                     name="email"                     id="email"                     type="text">                </div>                <div  class="field"> <label  for="message">Message</label> <textarea name="message" id="message" rows="5"></textarea>                </div>                <ul  class="actions">                  <li><a  href=""  class="button submit">Send Message</a></li>                </ul>              </form>            </section>            <section>              <ul  class="contact">                <li>                  <h3>Address</h3>                  <span>12345 Somewhere Road #654<br>                    Nashville, TN 00000-0000<br>                    USA</span> </li>                <li>                  <h3>Email</h3>                  <a  href="#">user@untitled.tld</a> </li>                <li>                  <h3>Phone</h3>                  <span>(000) 000-0000</span> </li>                <li>                  <h3>Social</h3>                  <ul  class="icons">                    <li><a  href="#"  class="fa-twitter"><span  class="label">Twitter</span></a><br>                    </li>                    <li><a  href="#"  class="fa-facebook"><span  class="label">Facebook</span></a><br>                    </li>                    <li><a  href="#"  class="fa-github"><span  class="label">GitHub</span></a><br>                    </li>                    <li><a  href="#"  class="fa-instagram"><span  class="label">Instagram</span></a><br>                    </li>                    <li><a  href="#"  class="fa-linkedin"><span  class="label">LinkedIn</span></a><br>                    </li>                  </ul>                </li>              </ul>            </section>          </div>        </div>      </section>    </div>    <!-- Footer -->    <!-- Scripts -->    <script  src="assets/js/jquery.min.js"></script>    <script  src="assets/js/jquery.scrollex.min.js"></script>    <script  src="assets/js/jquery.scrolly.min.js"></script>    <script  src="assets/js/skel.min.js"></script>    <script  src="assets/js/util.js"></script>    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->    <script  src="assets/js/main.js"></script>  </body></html>
+<!DOCTYPE html>
+<!--
+	Hyperspace by HTML5 UP	html5up.net | @n33co	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta  content="text/html; charset=utf-8"  http-equiv="content-type">
+    <title>Blockchain Institute @ SFU</title>
+    <meta  name="viewport"  content="width=device-width, initial-scale=1">
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link  rel="stylesheet"  href="assets/css/main.css">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+  </head>
+  <body>
+    <!-- Sidebar -->
+    <section  id="sidebar">
+      <div  class="inner">
+        <nav>
+          <ul>
+            <li><a  href="#intro">Welcome</a></li>
+            <li><a  href="#one">Who we are</a></li>
+            <li><a  href="#two">What we do</a></li>
+            <li><a  href="#three">Get in touch</a></li>
+          </ul>
+        </nav>
+      </div>
+    </section>
+    <!-- Wrapper -->
+    <div  id="wrapper">
+      <!-- Intro -->
+      <section  id="intro"  class="wrapper style1 fullscreen fade-up">
+        <div  class="inner">
+          <h1>Blockchain Institute @ SFU</h1>
+          <p>A think tank dedicated towards the goal of privacy, security and
+            equality on the internet.</p>
+          <ul  class="actions">
+            <li><a  href="#one"  class="button scrolly">Learn more</a></li>
+          </ul>
+        </div>
+      </section>
+      <!-- One -->
+      <section  id="one"  class="wrapper style2 spotlights">
+        <section> <a  href="https://ca.linkedin.com/pub/sheldon-bennett-mba-cfe/2/64a/41"
+             class="image featured">
+            <img  src="https://media.licdn.com/media/p/3/000/10e/27d/367a519.jpg"
+               alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Sheldon Bennet</h2>
+              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.</p>
+              <ul  class="actions">
+                <li><a  href="https://ca.linkedin.com/pub/sheldon-bennett-mba-cfe/2/64a/41"
+                     class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section> <a  href="https://ca.linkedin.com/in/neilharan"  class="image featured">
+            <img  src="https://media.licdn.com/media/p/3/000/251/27c/2b4db88.jpg"
+               alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Neil Haran</h2>
+              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.</p>
+              <ul  class="actions">
+                <li><a  href="https://ca.linkedin.com/in/neilharan"  class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section> <a  href="https://www.linkedin.com/in/markmclaughlin10"  class="image featured">
+            <img  src="https://media.licdn.com/media/AAEAAQAAAAAAAAIdAAAAJGM3NzBlM2NiLTQ3ZWItNGNjZS1iNGQ2LTUzODYxMmIyOTQ2Ng.jpg"
+               alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Mark McLaughlin</h2>
+              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.</p>
+              <ul  class="actions">
+                <li><a  href="https://www.linkedin.com/in/markmclaughlin10"  class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section> <a  href="https://ca.linkedin.com/in/scottbnelson"  class="image featured">
+            <img  src="images/SBN-2015.png"  alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Scott Nelson</h2>
+              <p>Scott Nelson has been working with the Bitcoin blockchain since
+                2010, first as a transaction processor (miner) and more recently
+                as a Fintech angle investor. He sits on the board of CCEC Credit
+                Union, Canada's first crypto-currency friendly financial
+                institute, and is an SFU alumni (Philosophy, 1991).</p>
+              <ul  class="actions">
+                <li><a  href="https://ca.linkedin.com/in/scottbnelson"  class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section> <a  href="https://ca.linkedin.com/in/albertski"  class="image featured">
+            <img  src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/09c/2a7/2453c85.jpg"
+               alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Albert Szmigielski</h2>
+              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.</p>
+              <ul  class="actions">
+                <li><a  href="https://ca.linkedin.com/in/albertski"  class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <section> <a  href="https://ca.linkedin.com/in/mikeyeungvancouver"  class="image featured"><img
+               src="https://media.licdn.com/media/p/8/005/099/3a5/34dbefe.jpg"
+               alt=""></a>
+          <div  class="content">
+            <div  class="inner">
+              <h2>Mike Yeung</h2>
+              <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                turpis mauris, eu ultricies erat malesuada quis. Aliquam
+                dapibus.</p>
+              <ul  class="actions">
+                <li><a  href="https://ca.linkedin.com/in/mikeyeungvancouver"  class="button">Learn
+                    more</a></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+      </section>
+      <!-- Two -->
+      <section  id="two"  class="wrapper style3 fade-up">
+        <div  class="inner">
+          <h2>What we do</h2>
+          <p>We create technology that on a fundamental level operates in a peer
+            to peer way. Our goal is to create software that doesn't have
+            "middle-people" or any centralized authority to eliminate single
+            points of failure.</p>
+          <div  class="features">
+            <section> <span  class="icon major fa-code"></span>
+              <h3>Lorem ipsum amet</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+            <section> <span  class="icon major fa-lock"></span>
+              <h3>Aliquam sed nullam</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+            <section> <span  class="icon major fa-cog"></span>
+              <h3>Sed erat ullam corper</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+            <section> <span  class="icon major fa-desktop"></span>
+              <h3>Veroeros quis lorem</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+            <section> <span  class="icon major fa-chain"></span>
+              <h3>Urna quis bibendum</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+            <section> <span  class="icon major fa-diamond"></span>
+              <h3>Aliquam urna dapibus</h3>
+              <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.</p>
+            </section>
+          </div>
+          <ul  class="actions">
+            <li><a  href="#"  class="button">Learn more</a></li>
+          </ul>
+        </div>
+      </section>
+      <!-- Three -->
+      <section  id="three"  class="wrapper style1 fade-up">
+        <div  class="inner">
+          <h2>Get in touch</h2>
+          <p>We would love to hear from you. Creating fairness on the internet
+            is no small task, we know we can't do it on our own. But if we all
+            put our minds together and work on it, we can do it.</p>
+          <div  class="split style1">
+            <section>
+              <form  method="post"  action="#">
+                <div  class="field half first"> <label  for="name">Name</label>
+                  <input  name="name"  id="name"  type="text"> </div>
+                <div  class="field half"> <label  for="email">Email</label> <input
+                     name="email"
+                     id="email"
+                     type="text">
+                </div>
+                <div  class="field"> <label  for="message">Message</label>
+                  <textarea  name="message"  id="message"  rows="5"></textarea>
+                </div>
+                <ul  class="actions">
+                  <li><a  href=""  class="button submit">Send Message</a></li>
+                </ul>
+              </form>
+            </section>
+            <section>
+              <ul  class="contact">
+                <li>
+                  <h3>Address</h3>
+                  <span>12345 Somewhere Road #654<br>
+                    Nashville, TN 00000-0000<br>
+                    USA</span> </li>
+                <li>
+                  <h3>Email</h3>
+                  <a  href="#">user@untitled.tld</a> </li>
+                <li>
+                  <h3>Phone</h3>
+                  <span>(000) 000-0000</span> </li>
+                <li>
+                  <h3>Social</h3>
+                  <ul  class="icons">
+                    <li><a  href="#"  class="fa-twitter"><span  class="label">Twitter</span></a><br>
+                    </li>
+                    <li><a  href="#"  class="fa-facebook"><span  class="label">Facebook</span></a><br>
+                    </li>
+                    <li><a  href="#"  class="fa-github"><span  class="label">GitHub</span></a><br>
+                    </li>
+                    <li><a  href="#"  class="fa-instagram"><span  class="label">Instagram</span></a><br>
+                    </li>
+                    <li><a  href="#"  class="fa-linkedin"><span  class="label">LinkedIn</span></a><br>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- Footer -->
+    <!-- Scripts -->
+    <script  src="assets/js/jquery.min.js"></script>
+    <script  src="assets/js/jquery.scrollex.min.js"></script>
+    <script  src="assets/js/jquery.scrolly.min.js"></script>
+    <script  src="assets/js/skel.min.js"></script>
+    <script  src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script  src="assets/js/main.js"></script>
+  </body>
+</html>
